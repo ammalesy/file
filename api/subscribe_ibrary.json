@@ -1,0 +1,37 @@
+[
+ {
+ "id":"1",
+ "libraryName":"name1",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"2",
+ "libraryName":"name2",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"3",
+ "libraryName":"name3",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"4",
+ "libraryName":"name4",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"5",
+ "libraryName":"name5",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"6",
+ "libraryName":"name6",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ },
+ {
+ "id":"7",
+ "libraryName":"name7",
+ "logoPath":"https://github.com/ammalesy/file/raw/master/library/1.png"
+ }
+]
