@@ -1,0 +1,546 @@
+{
+    "items":[
+                        {
+                            "bookID":"1",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/1.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"1",
+                                "title":"ห้องสมุด ELI"
+                                },
+                            "category":{
+                                "id":"1",
+                                "title":"หมวดบริหารธุรกิจ"
+                                },
+                        },
+                        {
+                            "bookID":"2",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/2.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"1",
+                                "title":"ห้องสมุด ELI"
+                                },
+                            "category":{
+                                "id":"1",
+                                "title":"หมวดบริหารธุรกิจ"
+                                },
+                        },
+                        {
+                            "bookID":"3",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/3.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"1",
+                                "title":"ห้องสมุด ELI"
+                                },
+                            "category":{
+                                "id":"1",
+                                "title":"หมวดบริหารธุรกิจ"
+                                },
+                        },
+                        {
+                            "bookID":"4",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/4.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"2",
+                                "title":"ห้องสมุด E Mag"
+                                },
+                            "category":{
+                                "id":"1",
+                                "title":"หมวดบริหารธุรกิจ"
+                                },
+                        },
+                        {
+                            "bookID":"5",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/5.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"2",
+                                "title":"ห้องสมุด E Mag"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"6",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/6.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"2",
+                                "title":"ห้องสมุด E Mag"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"7",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/7.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"2",
+                                "title":"ห้องสมุด E Mag"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"8",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/8.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"2",
+                                "title":"ห้องสมุด E Mag"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"9",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/9.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"10",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/10.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"11",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/11.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"12",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/12.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"13",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/13.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"14",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/14.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"15",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/15.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"2",
+                                "title":"หมวดท่องเที่ยว"
+                                },
+                        },
+                        {
+                            "bookID":"16",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/1.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"17",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/2.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"18",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/3.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"19",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/4.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"20",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/5.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"21",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/6.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"22",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/7.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"23",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/8.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"3",
+                                "title":"หนังสือแนะนำ"
+                                },
+                        },
+                        {
+                            "bookID":"24",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/9.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"25",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/10.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"26",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/11.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"27",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/12.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"28",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/13.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"29",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/14.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        },
+                        {
+                            "bookID":"30",
+                            "bookName":"BookName",
+                            "bookImage":"https://github.com/ammalesy/file/raw/master/15.png",
+                            "publisher":"Marvel",
+                            "info":"Lorem Ipsum คือ เนื้อหาจำลองแบบเรียบๆ ที่ใช้กันในธุรกิจงานพิมพ์หรืองานเรียงพิมพ์ มันได้กลายมาเป็นเนื้อหาจำลองมาตรฐานของธุรกิจดังกล่าวมาตั้งแต่ศตวรรษที่ 16 ",
+                            "bookWriter":"BookWriter",
+                            "rating":"0",
+                            "specialOffer":"N",
+                            "libraryGroup":{
+                                "id":"3",
+                                "title":"ห้องสมุด ELI 2"
+                                },
+                            "category":{
+                                "id":"4",
+                                "title":"หนังสือมีเดีย"
+                                },
+                        }
+                
+            ]
+
+}
