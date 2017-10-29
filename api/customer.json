@@ -18,7 +18,12 @@
             "updated_at": "2017-10-05 23:36:49",
             "updated_by": null,
             "image":"https://github.com/ammalesy/file/raw/master/customer/display.png",
-            "age":25
+            "age":25,
+            "myBooksCount":"876",
+            "myBooksBorrowingCount":"300",
+            "myBooksEverBorrowedCount":"900",
+            "myBooksEverReadenCount":"1.5k",
+            "myWalletCount":"2000"
         },
         "type": "Bearer",
         "authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImlzcyI6Imh0dHA6Ly9udGMtZWwvYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE1MDczNjU5ODgsImV4cCI6MTUwNzM2OTU4OCwibmJmIjoxNTA3MzY1OTg4LCJqdGkiOiJmak9ZMzBzeGFtaUVIZExQIn0.O2yLmaX_TjdScZik7rpRuPMcbyeI0jEdHvfvkGFJS7I"
