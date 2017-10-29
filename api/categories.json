@@ -238,32 +238,7 @@
                                 },
                             "ranking":"5",
                             "members":"987",
-                            "reviews": [
-                                {
-                                    "userID":"1",
-                                    "ranking":"1",
-                                    "message":"โหมันดีมากเลย มันดีกว่าชาวบ้านเขา",
-                                    "name":"Ammales Y"
-                                },
-                                {
-                                    "userID":"2",
-                                    "ranking":"5",
-                                    "message":"คิดว่าหน้ากากแมมมอสคือใคร",
-                                    "name":"นางไห๋หยี"
-                                },
-                                {
-                                    "userID":"3",
-                                    "ranking":"5",
-                                    "message":"คือดีย์อ่ะ",
-                                    "name":"ไทเฮา"
-                                },
-                                {
-                                    "userID":"4",
-                                    "ranking":"4",
-                                    "message":"ประหารรรรร!",
-                                    "name":"เปาบุ้นจิ้น"
-                                }
-                            ]
+                            
                         },
                         {
                             "bookID":"2",
@@ -284,32 +259,7 @@
                                 },
                             "ranking":"5",
                             "members":"987",
-                            "reviews": [
-                                    {
-                                        "userID":"10",
-                                        "ranking":"1",
-                                        "message":"โหมันดีมากเลย มันดีกว่าชาวบ้านเขา",
-                                        "name":"Ammales Y"
-                                    },
-                                    {
-                                        "userID":"2",
-                                        "ranking":"5",
-                                        "message":"คิดว่าหน้ากากแมมมอสคือใคร",
-                                        "name":"นางไห๋หยี"
-                                    },
-                                    {
-                                        "userID":"3",
-                                        "ranking":"5",
-                                        "message":"คือดีย์อ่ะ",
-                                        "name":"ไทเฮา"
-                                    },
-                                    {
-                                        "userID":"4",
-                                        "ranking":"4",
-                                        "message":"ประหารรรรร!",
-                                        "name":"เปาบุ้นจิ้น"
-                                    }
-                                ]
+                            
                         },
                         {
                             "bookID":"3",
