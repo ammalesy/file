@@ -6,7 +6,7 @@
 	 	"raking":"1",
 	 	"booksCount":"100",
 	 	"membersCount":"1000",
-		"p_reviewsCount":"10000"
+		"reviewsCount":"10000"
  	},
 	{
 	 	"id":"2",
@@ -15,7 +15,7 @@
 	 	"raking":"1",
 	 	"booksCount":"200",
 	 	"membersCount":"2000",
-		"p_reviewsCount":"20000"
+		"reviewsCount":"20000"
 	},
 	{
 	 	"id":"3",
@@ -24,6 +24,6 @@
 	 	"raking":"1",
 	 	"booksCount":"300",
 	 	"membersCount":"3000",
-		"p_reviewsCount":"30000"
+		"reviewsCount":"30000"
 	}
 ]
