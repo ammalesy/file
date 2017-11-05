@@ -30,6 +30,10 @@
                     "id":"1",
                     "title":"ห้องสมุด ELI",
                     "image":"https://github.com/ammalesy/file/raw/master/library/1.png",
+                    "raking":"1",
+                    "booksCount":"100",
+                    "membersCount":"1000",
+                    "reviewsCount":"10000",
                     "books":[
                         {
                             "bookID":"1",
@@ -94,6 +98,10 @@
                     "id":"2",
                     "title":"ห้องสมุด E Mag",
                     "image":"https://github.com/ammalesy/file/raw/master/library/1.png",
+                    "raking":"1",
+                    "booksCount":"100",
+                    "membersCount":"1000",
+                    "reviewsCount":"10000",
                     "books":[
                         {
                             "bookID":"5",
@@ -256,6 +264,10 @@
                     "id":"3",
                     "title":"ห้องสมุด ELI 2",
                     "image":"https://github.com/ammalesy/file/raw/master/library/1.png",
+                    "raking":"1",
+                    "booksCount":"100",
+                    "membersCount":"1000",
+                    "reviewsCount":"10000",
                     "books":[
                         {
                             "bookID":"1",
@@ -319,6 +331,10 @@
                     "id":"4",
                     "title":"ห้องสมุด ELI 3",
                     "image":"https://github.com/ammalesy/file/raw/master/library/1.png",
+                    "raking":"1",
+                    "booksCount":"100",
+                    "membersCount":"1000",
+                    "reviewsCount":"10000",
                     "books":[
                         {
                             "bookID":"1",
